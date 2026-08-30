@@ -1,9 +1,4 @@
 title: shazrasul's website
 description: Stuff
 author: shazrasul
-
-
-plugins:
-  - jekyll-remote-theme
-
-remote_theme: shazrasul/jekyll-templates
+theme: minima

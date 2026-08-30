@@ -1,4 +1,9 @@
-theme: minima
-title: shazrasul's personal website
+title: shazrasul's webatie
 description: This is where I share things
 author: shazrasul
+
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: shazrasul/jekyll-templates
